@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>《计算机组成原理》第一章计算机系统概述</title>
+      <link href="/2022/06/29/%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E3%80%8B%E7%AC%AC%E4%B8%80%E7%AB%A0%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/"/>
+      <url>/2022/06/29/%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%E3%80%8B%E7%AC%AC%E4%B8%80%E7%AB%A0%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E6%A6%82%E8%BF%B0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="（一）计算机系统层次结构"><a href="#（一）计算机系统层次结构" class="headerlink" title="（一）计算机系统层次结构"></a>（一）计算机系统层次结构</h1><p>​            计算机系统的基本组成</p><p>​            计算机硬件的基本组成</p><p>​            计算机软件和硬件的关系</p><p>​            计算机系统的工作原理：“存储程序”方式、高级语言程序与机器语言程序的转换、程序和指令的执行过程</p><h1 id="（二）计算机性能指标"><a href="#（二）计算机性能指标" class="headerlink" title="（二）计算机性能指标"></a>（二）计算机性能指标</h1><p>​             吞吐量、响应时间、CPU时钟周期、主频、CPI、CPU执行时间</p><p>​             MIPS、MFLOPS、GFLOPS、TFLOPS、PFLOPS、EFLOPS、ZFLOPS</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 计算机组成原理 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>test.md</title>
       <link href="/2022/06/29/test-md/"/>
       <url>/2022/06/29/test-md/</url>
